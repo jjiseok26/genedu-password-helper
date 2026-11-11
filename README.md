@@ -2,13 +2,25 @@
 
 교과교사와 담임교사를 위한 Windows 학생 비밀번호 변경 도우미입니다.
 
-## 설치 파일
+## 설치 없이 사용하는 포터블 — 자동 업데이트 지원
+
+[포터블 ZIP 내려받기](https://github.com/jjiseok26/genedu-password-helper/releases/latest/download/Jiseok.GeneduPasswordHelper-win-Portable.zip)
+
+1. ZIP 전체를 쓰기 가능한 폴더에 압축 해제합니다.
+2. 맨 위의 **Genedu 학생 비밀번호 변경 도우미.exe**를 실행합니다.
+3. 새 버전은 자동 다운로드합니다. 업데이트 준비됨 안내가 나오면 작업을 마친 뒤 앱을 종료하고 같은 실행 파일로 다시 실행합니다.
+
+**Update.exe · current 폴더 · .portable 파일을 함께 유지하세요. EXE만 따로 옮기거나 ZIP 안에서 바로 실행하지 마세요.**
+
+기존 단독 EXE 사용자는 이 ZIP으로 처음 한 번 전환하면 됩니다. 설치형으로 전환할 필요는 없습니다. 같은 Windows 사용자에서 저장 암호와 사용 모드는 유지됩니다.
+
+## 설치형을 원하는 경우
 
 [최신 설치 파일 내려받기](https://github.com/jjiseok26/genedu-password-helper/releases/latest/download/Jiseok.GeneduPasswordHelper-win-Setup.exe)
 
 [전체 배포 내역](https://github.com/jjiseok26/genedu-password-helper/releases)
 
-Windows 10/11 64비트용입니다. 처음 사용하거나 이전 단독 EXE를 사용 중이면, 기존 프로그램을 모두 종료한 뒤 Setup.exe로 한 번 설치해 주세요. 이후 설치된 바로가기로 실행합니다. 상세 따라하기 매뉴얼은 앱의 사용설명서 버튼으로 열 수 있습니다.
+Windows 10/11 64비트용입니다. 설치형을 원하면 기존 프로그램을 종료한 뒤 Setup.exe로 설치합니다. 이후 설치된 바로가기로 실행합니다. 상세 따라하기 매뉴얼은 앱의 사용설명서 버튼으로 열 수 있습니다.
 
 ## 자동 업데이트
 
@@ -18,7 +30,7 @@ Windows 10/11 64비트용입니다. 처음 사용하거나 이전 단독 EXE를 
 - 같은 Windows 사용자에서 기존 교사·학생 저장 암호와 사용 모드를 유지합니다.
 - 인터넷 또는 업데이트 연결 실패 시 현재 버전을 계속 사용할 수 있습니다.
 
-구버전 단독 EXE에는 자동 업데이트 코드가 없으므로 설치형으로 처음 한 번 전환해야 합니다.
+구버전 단독 EXE에는 자동 업데이트 코드가 없으므로 자동 업데이트용 포터블 ZIP 또는 설치형으로 처음 한 번 전환해야 합니다.
 
 ## 주요 기능
 
